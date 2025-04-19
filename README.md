@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there, I'm Krima 👋
 
-<!--
-**CodeKrima/CodeKrima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-Stack Java Developer with 5+ years of experience — currently diving deeper into Python, Data APIs, and Cloud DevOps.
 
-Here are some ideas to get you started:
+- 🔧 Tech I work with: `Java`, `Spring Boot`, `React`, `Angular`, `Python`, `Flask`, `SQL`, `Azure`, `Docker`
+- 💻 Check out my latest project: [Employee Insights API](https://github.com/CodeKrima/employee-insights-api)
+- 🌱 Currently learning: FastAPI, CI/CD with GitHub Actions
+- 🎯 Career goal: Build secure and scalable APIs and contribute to open-source
+- 📫 Reach me: [krimapatel2415@gmail.com](mailto:krimapatel2415@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🚀 Projects Spotlight
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [Employee Insights API](https://github.com/CodeKrima/employee-insights-api) | A Python Flask API to analyze and filter employee data | Flask, Pandas, REST |
+
+---
+
+📊 GitHub Stats
+![Krima's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeKrima&show_icons=true&theme=radical)
